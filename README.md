@@ -45,8 +45,10 @@ _____________________________
 <br>  
 
 
-*The features are defined and calculated for synchronized multimodal piano performance data (motion and MIDI).*
+The features are defined and calculated for synchronized multimodal piano performance data (motion and MIDI).
 
-*MIDI should be aligned with the digital score.*
+MIDI should be aligned with the digital score.
+
+--------------> *The code will soon be updated to include the motion features and link to the performance datasets*
 
 
